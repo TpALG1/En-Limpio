@@ -1,1 +1,3 @@
  import Data.Char
+esMin :: Char -> Bool
+esMin x = isLower 
